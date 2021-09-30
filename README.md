@@ -1,4 +1,4 @@
-# vendor_coupon_classification
+# vendor coupon classification
 The goal is to build a preliminary classification model to predict whether the target person will accept a coupon offer given the conditions.
 
 I have particular interest in this type of data (marketing) because it is highly relevant to other promotion related endeavors in the non-profit sector such as fundraising and influencing people to perform positive behaviors.
